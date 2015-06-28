@@ -14,6 +14,11 @@ This is a collection of awesome things (preferably open source) to make your jou
 ## Maps
 
  - [Pinpoint](https://github.com/dowjones/pinpoint) and [Pinpoint Editor](https://github.com/dowjones/pinpoint-editor) Web app for quickly creating and editing Pinpoint maps
+ - [mapshaper](http://mapshaper.org/) - Web-based tool to simplify and convert geojson, topjson and shapefiles
+ - [geojson.io](http://geojson.io/) - Web-based tool to create and manipulate different types of geo-files (geojson, topojson, kml, etc) 
+ - [Mapbox Studio](https://www.mapbox.com/mapbox-studio/#linux) - Tool to create map styles and data layers.
+ - [mapstarter](http://mapstarter.com/) - Tool for turning a geographic data file into a map for the web. 
+
 
 ## Memes and Share Graphics
 
